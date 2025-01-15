@@ -1,0 +1,42 @@
+---
+title: "西片トコトコ探索会"
+about:
+  id: about
+  template: marquee
+  image: img/backimg.png
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/nishikata-tokotoko
+    - icon: journal-plus
+      text: note
+      href: https://note.com/nishitoko
+listing:
+  id: projects
+  contents:
+    - path: https://nishikata-tokotoko.github.io/cycle-shortcut-map/
+      title: "急がば漕げマップ"
+      image: img/ogp_index.png
+      description: "公共交通オープンデータチャレンジ2024応募作品。鉄道と自転車を組み合わせた都市内移動のポテンシャルを探ります。"
+      date: 2025-01-17
+      categories: [公共交通オープンデータ, GBFS, MapLibre]
+  type: default
+  date-format: iso
+---
+
+:::{#about}
+
+西片トコトコ探索会は、公共交通データを使って楽しむ有志団体です。
+
+公共交通オープンデータチャレンジ2024にて、「急がば漕げマップ」を投稿しています。
+
+:::
+
+## プロジェクト
+
+西片トコトコ探索会としてこれまで実施したプロジェクトは以下のとおりです。
+
+
+:::{#projects}
+
+:::

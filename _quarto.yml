@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "西片トコトコ探索会"
+  favicon: img/favicon.png
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+    tools:
+      - icon: github
+        href: https://github.com/nishikata-tokotoko
+      - icon: journal-plus
+        href: https://note.com/nishitoko
+
+format:
+  html:
+    theme: lumen
+    css: styles.css
+    toc: false
+

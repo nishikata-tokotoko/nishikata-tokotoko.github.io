@@ -1,2 +1,3 @@
-# nishikata-tokotoko.github.io
+# 西片トコトコ探索会
+
 トップページ用レポジトリ
